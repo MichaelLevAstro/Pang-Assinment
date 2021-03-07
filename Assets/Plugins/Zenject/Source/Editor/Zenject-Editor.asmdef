@@ -1,0 +1,17 @@
+{
+    "name": "Zenject-Editor",
+    "references": [
+        "GUID:e3ca5368a95e4734aa482c223c104e2a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.3D Tetris.iml
+/contentModel.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\Michael Lev\3D Tetris\.idea\.idea.3D Tetris\.idea/dataSources/
+/dataSources.local.xml
